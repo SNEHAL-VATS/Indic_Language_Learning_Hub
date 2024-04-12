@@ -1,5 +1,5 @@
 # Indic_Language_Learning_Hub
-##Major project for Ramaiah Institute of Technology [2020-2024] ISE
+## Major project for Ramaiah Institute of Technology [2020-2024] ISE
 #### AI Language Learning App
 
 ## Project Overview
@@ -18,7 +18,8 @@ This AI-powered language learning app uses advanced machine learning models to g
 
 ## Installation
 ```bash
-git clone [https://github.com/SNEHAL-VATS/Indic_Language_Learning_Hub]
-cd ai-language-app
+git clone https://github.com/SNEHAL-VATS/Indic_Language_Learning_Hub.git
+cd Indic_Language_Learning_Hub
 pip install -r requirements.txt
+<set OPENAI_API_KEY = "your key">
 streamlit run streamlit_app.py
