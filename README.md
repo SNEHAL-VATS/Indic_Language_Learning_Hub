@@ -22,4 +22,4 @@ git clone https://github.com/SNEHAL-VATS/Indic_Language_Learning_Hub.git
 cd Indic_Language_Learning_Hub
 pip install -r requirements.txt
 <set OPENAI_API_KEY = "your key">
-streamlit run streamlit_app.py
+streamlit run first_app_py.py
