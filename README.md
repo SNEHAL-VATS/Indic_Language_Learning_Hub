@@ -7,7 +7,7 @@ This AI-powered language learning app uses advanced machine learning models to g
 
 ## Features
 - Real-time conversation generation with AI chatbots.
-- Support for multiple languages including English, German, Spanish, and French.
+- Support for multiple languages including English, Hindi, Kannada, Malayalam and Tamil.
 - Customizable settings for role, scenario, session length, and proficiency level.
 
 ## Tech Stack
